@@ -26,6 +26,7 @@ class Sends extends Component {
             input: value
         });
     }
+    //기능 추가 branch
     render() {
         return (
             <form onSubmit={this.handleSubmit}>
