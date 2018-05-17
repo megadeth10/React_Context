@@ -26,6 +26,7 @@ class Sends extends Component {
             input: value
         });
     }
+    //test main branch 적용
     render() {
         return (
             <form onSubmit={this.handleSubmit}>
